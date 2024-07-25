@@ -14,4 +14,15 @@ How users can get started with the project:
   install npm playwright
   Open the file in vs code
 
+- Open Cmd in desired Location
+- run the cammand :  npm init playwright@latest;
+- Need to install the following packages: create-playwright@1.17.133
+
+Initializing project in 
+√ Do you want to use TypeScript or JavaScript? ·---> JavaScript
+√ Where to put your end-to-end tests? ----> tests
+√ Add a GitHub Actions workflow? (y/N) ---> false
+√ Install Playwright browsers (can be done manually via 'npx playwright install')? (Y/n) --> true
+Initializing NPM project (npm init -y)…
+
 
